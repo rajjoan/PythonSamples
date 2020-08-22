@@ -2,7 +2,7 @@ fruits=["bannana","apple","strawberries"]
 Login=input("Login>>> ")
 
 if Login in fruits:
-    print("Acsess Granted")
+    print("Access Granted")
 
 else:
-    print("Acsess deniend")
+    print("Access denied")
