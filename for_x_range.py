@@ -1,0 +1,45 @@
+for x in range(6):
+    print(x)
+    print("will it reapeat")
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+                            
